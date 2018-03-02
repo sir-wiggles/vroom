@@ -1,0 +1,38 @@
+settings:
+  legacy:
+    force: false
+    interval: 0s
+server:
+  status: false
+  open: false
+  port: 5002
+  host: localhost
+schema:
+- name: binary
+  path: /home/jeff/Documents/go/src/github.com/sir-wiggles/arc/cmd
+  commands:
+    build:
+      status: true
+  watcher:
+    paths:
+    - /
+    extensions:
+    - go
+    ignored_paths:
+    - .git
+    - .realize
+    - vendor
+- name: library
+  path: /home/jeff/Documents/go/src/github.com/sir-wiggles/arc/pkg/webstore
+  commands:
+    build:
+      status: true
+  watcher:
+    paths:
+    - /
+    extensions:
+    - go
+    ignored_paths:
+    - .git
+    - .realize
+    - vendor
