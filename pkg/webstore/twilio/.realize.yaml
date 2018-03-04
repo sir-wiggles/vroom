@@ -3,12 +3,12 @@ settings:
     force: false
     interval: 0s
 server:
-  status: true
+  status: false
   open: false
   port: 5002
   host: localhost
 schema:
-- name: arc
+- name: twilio
   path: .
   commands: {}
   watcher:
