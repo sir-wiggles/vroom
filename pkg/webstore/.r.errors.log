@@ -1,0 +1,648 @@
+2018-03-03 18:05:58 WEBSTORE : there are some errors in 
+ vet: api_test.go: api_test.go:46:6: expected ';', found ':='
+vet: no files checked
+exit status 1
+2018-03-03 18:05:58 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/api
+api_test.go:46:6: expected ';', found ':='
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/api [setup failed]
+2018-03-03 18:05:59 WEBSTORE : there are some errors in 
+ 2018/03/03 18:05:59 098013
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	twilio_test.go:72: &{5599361530 098013}
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 18:06:28 WEBSTORE : there are some errors in 
+ vet: api_test.go: api_test.go:46:6: expected ';', found ':='
+vet: no files checked
+exit status 1
+2018-03-03 18:06:28 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/api
+api_test.go:46:6: expected ';', found ':='
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/api [setup failed]
+2018-03-03 18:06:29 WEBSTORE : there are some errors in 
+ 2018/03/03 18:06:29 062043
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	twilio_test.go:72: &{5599361530 062043}
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 18:08:00 WEBSTORE : there are some errors in 
+ vet: api_test.go: api_test.go:46:6: expected ';', found ':='
+vet: no files checked
+exit status 1
+2018-03-03 18:08:00 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/api
+api_test.go:46:6: expected ';', found ':='
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/api [setup failed]
+2018-03-03 18:08:01 WEBSTORE : there are some errors in 
+ 2018/03/03 18:08:01 099066
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	twilio_test.go:72: &{5599361530 099066}
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 18:08:17 WEBSTORE : there are some errors in 
+ vet: api_test.go: api_test.go:46:6: expected ';', found ':='
+vet: no files checked
+exit status 1
+2018-03-03 18:08:17 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/api
+api_test.go:46:6: expected ';', found ':='
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/api [setup failed]
+2018-03-03 18:08:18 WEBSTORE : there are some errors in 
+ 2018/03/03 18:08:18 068063
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	twilio_test.go:72: &{5599361530 068063}
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 18:09:53 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/api
+api_test.go:46:6: expected ';', found ':='
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/api [setup failed]
+2018-03-03 18:09:54 WEBSTORE : there are some errors in 
+ 2018/03/03 18:09:54 039125
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	twilio_test.go:72: &{5599361530 039125}
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 18:10:06 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/api
+api_test.go:46:6: expected ';', found ':='
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/api [setup failed]
+2018-03-03 18:10:06 WEBSTORE : there are some errors in 
+ 2018/03/03 18:10:06 071055
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	twilio_test.go:72: &{5599361530 071055}
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.002s
+2018-03-03 18:10:13 WEBSTORE : there are some errors in 
+ 2018/03/03 18:10:13 066107
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	twilio_test.go:72: &{5599361530 066107}
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 18:10:21 WEBSTORE : there are some errors in 
+ 2018/03/03 18:10:21 063029
+panic: foo [recovered]
+	panic: foo
+exit status 2
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.005s
+2018-03-03 18:10:28 WEBSTORE : there are some errors in 
+ 2018/03/03 18:10:28 078089
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	twilio_test.go:72: &{5599361530 078089}
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 18:21:51 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:59:67: msg declared and not used
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:23:17 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:65:1: missing return at end of function
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:28:52 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:70:19: not enough arguments in call to s.HTTPClient.Post
+	have ()
+	want (string, string, io.Reader)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:29:58 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:70:84: undefined: TwilioAccountNumber
+./twilio.go:71:23: not enough arguments in call to s.HTTPClient.PostForm
+	have (string)
+	want (string, url.Values)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:30:45 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:70:84: undefined: TwilioAccountNumber
+./twilio.go:71:32: url.Values undefined (type string has no field or method Values)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:30:57 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:70:84: undefined: TwilioAccountNumber
+./twilio.go:71:32: url.Values undefined (type string has no field or method Values)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:37:01 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:70:84: undefined: TwilioAccountNumber
+./twilio.go:72:17: cannot use message (type string) as type []string in assignment
+./twilio.go:73:15: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:74:19: undefined: TwilioFromPhoneNumber
+./twilio.go:76:24: multiple-value http.NewRequest() in single-value context
+./twilio.go:77:19: undefined: TwilioAccount
+./twilio.go:77:34: undefined: TwilioAuthToken
+./twilio.go:79:23: not enough arguments in call to s.HTTPClient.PostForm
+	have (string)
+	want (string, url.Values)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:38:09 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:70:84: undefined: TwilioAccountNumber
+./twilio.go:73:15: cannot use message (type string) as type []string in assignment
+./twilio.go:74:13: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:75:17: undefined: TwilioFromPhoneNumber
+./twilio.go:77:24: multiple-value http.NewRequest() in single-value context
+./twilio.go:78:19: undefined: TwilioAccount
+./twilio.go:78:34: undefined: TwilioAuthToken
+./twilio.go:81:23: not enough arguments in call to s.HTTPClient.PostForm
+	have (string)
+	want (string, url.Values)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:40:11 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:70:84: undefined: TwilioAccountNumber
+./twilio.go:73:15: cannot use message (type string) as type []string in assignment
+./twilio.go:74:13: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:75:17: undefined: TwilioFromPhoneNumber
+./twilio.go:77:24: multiple-value http.NewRequest() in single-value context
+./twilio.go:77:33: undefined: TwilioEndpoint
+./twilio.go:78:19: undefined: TwilioAccount
+./twilio.go:78:34: undefined: TwilioAuthToken
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:41:31 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:64:95: undefined: TwilioAccountNumber
+./twilio.go:69:15: cannot use message (type string) as type []string in assignment
+./twilio.go:70:13: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:71:17: undefined: TwilioFromPhoneNumber
+./twilio.go:73:24: multiple-value http.NewRequest() in single-value context
+./twilio.go:74:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:41:44 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:65:100: undefined: TwilioAccountNumber
+./twilio.go:71:15: cannot use message (type string) as type []string in assignment
+./twilio.go:72:13: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:73:17: undefined: TwilioFromPhoneNumber
+./twilio.go:75:24: multiple-value http.NewRequest() in single-value context
+./twilio.go:76:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:41:59 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:65:100: undefined: TwilioAccountNumber
+./twilio.go:71:15: cannot use message (type string) as type []string in assignment
+./twilio.go:72:13: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:73:17: undefined: TwilioFromPhoneNumber
+./twilio.go:75:24: multiple-value http.NewRequest() in single-value context
+./twilio.go:76:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:42:12 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:66:100: undefined: TwilioAccountNumber
+./twilio.go:73:15: cannot use message (type string) as type []string in assignment
+./twilio.go:74:13: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:75:17: undefined: TwilioFromPhoneNumber
+./twilio.go:77:24: multiple-value http.NewRequest() in single-value context
+./twilio.go:78:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:42:32 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:66:100: undefined: TwilioAccountNumber
+./twilio.go:75:15: cannot use message (type string) as type []string in assignment
+./twilio.go:76:13: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:77:17: undefined: TwilioFromPhoneNumber
+./twilio.go:79:6: no new variables on left side of :=
+./twilio.go:79:24: multiple-value http.NewRequest() in single-value context
+./twilio.go:80:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:42:38 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:66:100: undefined: TwilioAccountNumber
+./twilio.go:75:15: cannot use message (type string) as type []string in assignment
+./twilio.go:76:13: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:77:17: undefined: TwilioFromPhoneNumber
+./twilio.go:79:23: multiple-value http.NewRequest() in single-value context
+./twilio.go:80:19: undefined: TwilioAccount
+./twilio.go:83:7: undefined: err
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:42:47 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:66:100: undefined: TwilioAccountNumber
+./twilio.go:76:15: cannot use message (type string) as type []string in assignment
+./twilio.go:77:13: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:78:17: undefined: TwilioFromPhoneNumber
+./twilio.go:80:23: multiple-value http.NewRequest() in single-value context
+./twilio.go:81:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:42:58 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:76:15: cannot use message (type string) as type []string in assignment
+./twilio.go:77:13: cannot use phoneNumber (type string) as type []string in assignment
+./twilio.go:78:17: undefined: TwilioFromPhoneNumber
+./twilio.go:80:23: multiple-value http.NewRequest() in single-value context
+./twilio.go:81:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:43:25 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:78:26: undefined: TwilioFromPhoneNumber
+./twilio.go:80:23: multiple-value http.NewRequest() in single-value context
+./twilio.go:81:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:43:38 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:78:26: undefined: TwilioFromPhoneNumber
+./twilio.go:81:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:44:18 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:82:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:44:37 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:69:102: undefined: TwilioAccount
+./twilio.go:82:19: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:44:57 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:73:3: res declared and not used
+./twilio.go:74:3: err declared and not used
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:45:26 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:60:2: too many arguments to return
+	have (<T>, error)
+	want (error)
+./twilio.go:63:59: undefined: http.Respons
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:45:48 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:60:2: too many arguments to return
+	have (<T>, error)
+	want (error)
+./twilio.go:63:59: undefined: http.Respons
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 18:46:32 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:60:2: too many arguments to return
+	have (<T>, error)
+	want (error)
+./twilio.go:63:59: undefined: http.Respons
+./twilio.go:86:1: missing return at end of function
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 19:04:11 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:60:2: too many arguments to return
+	have (<T>, error)
+	want (error)
+./twilio.go:63:59: undefined: http.Respons
+./twilio.go:90:1: missing return at end of function
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 19:04:32 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:88:3: not enough arguments to return
+	have ()
+	want (error)
+./twilio.go:90:1: missing return at end of function
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 19:05:21 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:95:1: missing return at end of function
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 19:05:37 WEBSTORE : there are some errors in 
+ 2018/03/03 19:05:37 089006
+panic: runtime error: invalid memory address or nil pointer dereference [recovered]
+	panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violation code=0x1 addr=0x10 pc=0x5f6f36]
+exit status 2
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.005s
+2018-03-03 19:06:16 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/api
+api_test.go:46:6: expected ';', found ':='
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/api [setup failed]
+2018-03-03 19:06:17 WEBSTORE : there are some errors in 
+ 2018/03/03 19:06:17 096018
+panic: runtime error: invalid memory address or nil pointer dereference [recovered]
+	panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violation code=0x1 addr=0x10 pc=0x5f6f36]
+exit status 2
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.005s
+2018-03-03 19:10:12 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/api
+api_test.go:46:6: expected ';', found ':='
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/api [setup failed]
+2018-03-03 19:10:12 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+twilio_test.go:58:30: missing ',' before newline in composite literal
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [setup failed]
+2018-03-03 19:10:16 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:60:48: cannot use res (type http.Response) as type *http.Response in argument to newRoundTripper
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 19:51:30 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:75:3: undefined: Ω
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 19:59:20 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:75:4: undefined: Ω
+./twilio_test.go:75:20: undefined: Equal
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 20:00:14 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:75:4: undefined: Ω
+./twilio_test.go:75:20: undefined: Equal
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 20:00:32 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:76:4: undefined: Expect
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 20:00:58 WEBSTORE : there are some errors in 
+ 2018/03/03 20:00:58 064090
+panic: You are trying to make an assertion, but Gomega's fail handler is nil.
+If you're using Ginkgo then you probably forgot to put your assertion in an It().
+Alternatively, you may have forgotten to register a fail handler with RegisterFailHandler() or RegisterTestingT().
+Depending on your vendoring solution you may be inadvertently importing gomega and subpackages (e.g. ghhtp, gexec,...) from different locations.
+ [recovered]
+	panic: You are trying to make an assertion, but Gomega's fail handler is nil.
+If you're using Ginkgo then you probably forgot to put your assertion in an It().
+Alternatively, you may have forgotten to register a fail handler with RegisterFailHandler() or RegisterTestingT().
+Depending on your vendoring solution you may be inadvertently importing gomega and subpackages (e.g. ghhtp, gexec,...) from different locations.
+
+exit status 2
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.005s
+2018-03-03 20:01:26 WEBSTORE : there are some errors in 
+ 2018/03/03 20:01:26 020040
+panic: You are trying to make an assertion, but Gomega's fail handler is nil.
+If you're using Ginkgo then you probably forgot to put your assertion in an It().
+Alternatively, you may have forgotten to register a fail handler with RegisterFailHandler() or RegisterTestingT().
+Depending on your vendoring solution you may be inadvertently importing gomega and subpackages (e.g. ghhtp, gexec,...) from different locations.
+ [recovered]
+	panic: You are trying to make an assertion, but Gomega's fail handler is nil.
+If you're using Ginkgo then you probably forgot to put your assertion in an It().
+Alternatively, you may have forgotten to register a fail handler with RegisterFailHandler() or RegisterTestingT().
+Depending on your vendoring solution you may be inadvertently importing gomega and subpackages (e.g. ghhtp, gexec,...) from different locations.
+
+exit status 2
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.005s
+2018-03-03 20:02:13 WEBSTORE : there are some errors in 
+ 2018/03/03 20:02:13 007091
+panic: You are trying to make an assertion, but Gomega's fail handler is nil.
+If you're using Ginkgo then you probably forgot to put your assertion in an It().
+Alternatively, you may have forgotten to register a fail handler with RegisterFailHandler() or RegisterTestingT().
+Depending on your vendoring solution you may be inadvertently importing gomega and subpackages (e.g. ghhtp, gexec,...) from different locations.
+ [recovered]
+	panic: You are trying to make an assertion, but Gomega's fail handler is nil.
+If you're using Ginkgo then you probably forgot to put your assertion in an It().
+Alternatively, you may have forgotten to register a fail handler with RegisterFailHandler() or RegisterTestingT().
+Depending on your vendoring solution you may be inadvertently importing gomega and subpackages (e.g. ghhtp, gexec,...) from different locations.
+
+exit status 2
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.005s
+2018-03-03 20:02:50 WEBSTORE : there are some errors in 
+ 2018/03/03 20:02:50 104058
+panic: You are trying to make an assertion, but Gomega's fail handler is nil.
+If you're using Ginkgo then you probably forgot to put your assertion in an It().
+Alternatively, you may have forgotten to register a fail handler with RegisterFailHandler() or RegisterTestingT().
+Depending on your vendoring solution you may be inadvertently importing gomega and subpackages (e.g. ghhtp, gexec,...) from different locations.
+ [recovered]
+	panic: You are trying to make an assertion, but Gomega's fail handler is nil.
+If you're using Ginkgo then you probably forgot to put your assertion in an It().
+Alternatively, you may have forgotten to register a fail handler with RegisterFailHandler() or RegisterTestingT().
+Depending on your vendoring solution you may be inadvertently importing gomega and subpackages (e.g. ghhtp, gexec,...) from different locations.
+
+exit status 2
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.006s
+2018-03-03 20:02:57 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:77:26: cannot use true (type bool) as type types.GomegaMatcher in argument to gomega.Expect(true).To:
+	bool does not implement types.GomegaMatcher (missing FailureMessage method)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 20:04:11 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:54:9: undefined: NewGomegaWithT
+./twilio_test.go:78:22: undefined: BeTrue
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 20:04:21 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:54:9: undefined: NewGomegaWithT
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 20:04:34 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:79:23: g.BeTrue undefined (type *gomega.GomegaWithT has no field or method BeTrue)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 20:04:50 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:79:22: undefined: BeTrue
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 20:05:06 WEBSTORE : there are some errors in 
+ 2018/03/03 20:05:06 114122
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	testing_t_support.go:22: 
+    			/home/jeff/Documents/go/src/github.com/onsi/gomega/internal/assertion/assertion.go:69 +0x1ef
+    		github.com/onsi/gomega/internal/assertion.(*Assertion).To(0xc420086900, 0x86ff00, 0x9610a0, 0x0, 0x0, 0x0, 0x871300)
+    			/home/jeff/Documents/go/src/github.com/onsi/gomega/internal/assertion/assertion.go:35 +0xae
+    		github.com/sir-wiggles/arc/pkg/webstore/twilio_test.TestSendCode.func2(0xc4201501e0)
+    			/home/jeff/Documents/go/src/github.com/sir-wiggles/arc/pkg/webstore/twilio/twilio_test.go:79 +0x2e4
+    		testing.tRunner(0xc4201501e0, 0xc4200f24e0)
+    			/home/jeff/.go1.9.2/src/testing/testing.go:746 +0xd0
+    		created by testing.(*T).Run
+    			/home/jeff/.go1.9.2/src/testing/testing.go:789 +0x2de
+    		
+    		Expected
+    		    <bool>: true
+    		to be false
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 20:05:58 WEBSTORE : there are some errors in 
+ 2018/03/03 20:05:58 043071
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	testing_t_support.go:22: 
+    			/home/jeff/Documents/go/src/github.com/onsi/gomega/internal/assertion/assertion.go:69 +0x1ef
+    		github.com/onsi/gomega/internal/assertion.(*Assertion).ToNot(0xc420062940, 0x86ff00, 0x9610a0, 0xc420010e10, 0x1, 0x1, 0x871300)
+    			/home/jeff/Documents/go/src/github.com/onsi/gomega/internal/assertion/assertion.go:39 +0xae
+    		github.com/sir-wiggles/arc/pkg/webstore/twilio_test.TestSendCode.func2(0xc42012c1e0)
+    			/home/jeff/Documents/go/src/github.com/sir-wiggles/arc/pkg/webstore/twilio/twilio_test.go:79 +0x333
+    		testing.tRunner(0xc42012c1e0, 0xc4200d4500)
+    			/home/jeff/.go1.9.2/src/testing/testing.go:746 +0xd0
+    		created by testing.(*T).Run
+    			/home/jeff/.go1.9.2/src/testing/testing.go:789 +0x2de
+    		
+    		Error message
+    		Expected
+    		    <bool>: true
+    		not to be true
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 21:51:18 WEBSTORE : there are some errors in 
+ 2018/03/03 21:51:18 097014
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	testing_t_support.go:22: 
+    			/home/jeff/Documents/go/src/github.com/onsi/gomega/internal/assertion/assertion.go:69 +0x1ef
+    		github.com/onsi/gomega/internal/assertion.(*Assertion).ToNot(0xc420062940, 0x86ff00, 0x9610a0, 0xc420010e20, 0x1, 0x1, 0x871300)
+    			/home/jeff/Documents/go/src/github.com/onsi/gomega/internal/assertion/assertion.go:39 +0xae
+    		github.com/sir-wiggles/arc/pkg/webstore/twilio_test.TestSendCode.func2(0xc42012c1e0)
+    			/home/jeff/Documents/go/src/github.com/sir-wiggles/arc/pkg/webstore/twilio/twilio_test.go:78 +0x333
+    		testing.tRunner(0xc42012c1e0, 0xc4200d4520)
+    			/home/jeff/.go1.9.2/src/testing/testing.go:746 +0xd0
+    		created by testing.(*T).Run
+    			/home/jeff/.go1.9.2/src/testing/testing.go:789 +0x2de
+    		
+    		Error message
+    		Expected
+    		    <bool>: true
+    		not to be true
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 21:52:35 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:78:12: not enough arguments in call to g.Expect
+	have ()
+	want (interface {}, ...interface {})
+./twilio_test.go:79:5: g.Ω undefined (type *gomega.GomegaWithT has no field or method Ω)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 21:53:34 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:55:9: undefined: gomega
+./twilio_test.go:80:25: undefined: gomega
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 21:53:49 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:55:9: undefined: NewGomegaWithT
+./twilio_test.go:80:25: undefined: BeTrue
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 21:55:47 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:78:30: not enough arguments in call to g.Expect(mc.SetInvoked).To
+	have ()
+	want (types.GomegaMatcher, ...interface {})
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 21:58:27 WEBSTORE : there are some errors in 
+ 2018/03/03 21:58:27 097127
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	testing_t_support.go:22: 
+    			/home/jeff/Documents/go/src/github.com/onsi/gomega/internal/assertion/assertion.go:69 +0x1ef
+    		github.com/onsi/gomega/internal/assertion.(*Assertion).ToNot(0xc420062980, 0x870f00, 0x9620e0, 0xc420010e30, 0x1, 0x1, 0x872340)
+    			/home/jeff/Documents/go/src/github.com/onsi/gomega/internal/assertion/assertion.go:39 +0xae
+    		github.com/sir-wiggles/arc/pkg/webstore/twilio_test.TestSendCode.func2(0xc42012c1e0)
+    			/home/jeff/Documents/go/src/github.com/sir-wiggles/arc/pkg/webstore/twilio/twilio_test.go:80 +0x439
+    		testing.tRunner(0xc42012c1e0, 0xc4200d44c0)
+    			/home/jeff/.go1.9.2/src/testing/testing.go:746 +0xd0
+    		created by testing.(*T).Run
+    			/home/jeff/.go1.9.2/src/testing/testing.go:789 +0x2de
+    		
+    		Error message
+    		Expected
+    		    <bool>: true
+    		not to be true
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 22:01:05 WEBSTORE : there are some errors in 
+ 2018/03/03 22:01:05 046053
+--- FAIL: TestSendCode (0.00s)
+    --- FAIL: TestSendCode/Test (0.00s)
+    	testing_t_support.go:22: 
+    			/home/jeff/Documents/go/src/github.com/onsi/gomega/internal/assertion/assertion.go:59 +0x336
+    		github.com/onsi/gomega/internal/assertion.(*Assertion).To(0xc420062940, 0x86ff00, 0xc420010e20, 0xc420010e30, 0x1, 0x1, 0x871300)
+    			/home/jeff/Documents/go/src/github.com/onsi/gomega/internal/assertion/assertion.go:35 +0xae
+    		github.com/sir-wiggles/arc/pkg/webstore/twilio_test.TestSendCode.func2(0xc42012c1e0)
+    			/home/jeff/Documents/go/src/github.com/sir-wiggles/arc/pkg/webstore/twilio/twilio_test.go:74 +0x354
+    		testing.tRunner(0xc42012c1e0, 0xc4200d44e0)
+    			/home/jeff/.go1.9.2/src/testing/testing.go:746 +0xd0
+    		created by testing.(*T).Run
+    			/home/jeff/.go1.9.2/src/testing/testing.go:789 +0x2de
+    		
+    		return error
+    		Refusing to compare <nil> to <nil>.
+    		Be explicit and use BeNil() instead.  This is to avoid mistakes where both sides of an assertion are erroneously uninitialized.
+FAIL
+exit status 1
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio	0.003s
+2018-03-03 22:02:43 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:70:38: tc.err undefined (type struct { _name string; SetFn func(string, string) error; hasError error; invoked bool } has no field or method err)
+./twilio_test.go:71:46: tc.err undefined (type struct { _name string; SetFn func(string, string) error; hasError error; invoked bool } has no field or method err)
+./twilio_test.go:74:29: tc.err undefined (type struct { _name string; SetFn func(string, string) error; hasError error; invoked bool } has no field or method err)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:03:05 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:70:38: tc.err undefined (type struct { _name string; SetFn func(string, string) error; hasError bool; invoked bool } has no field or method err)
+./twilio_test.go:71:46: tc.err undefined (type struct { _name string; SetFn func(string, string) error; hasError bool; invoked bool } has no field or method err)
+./twilio_test.go:74:29: tc.err undefined (type struct { _name string; SetFn func(string, string) error; hasError bool; invoked bool } has no field or method err)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:04:20 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio_test
+./twilio_test.go:70:38: tc.err undefined (type struct { _name string; SetFn func(string, string) error; hasError bool; invoked bool } has no field or method err)
+./twilio_test.go:71:46: tc.err undefined (type struct { _name string; SetFn func(string, string) error; hasError bool; invoked bool } has no field or method err)
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:19:51 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:67:5: syntax error: unexpected ., expecting type
+./twilio.go:76:8: syntax error: unexpected error at end of statement
+./twilio.go:77:2: syntax error: unexpected ), expecting }
+./twilio.go:79:2: syntax error: non-declaration statement outside function body
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:20:06 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:77:2: undefined: os
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:32:03 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:79:36: undefined: TwilioFromPhoneNumber
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:32:35 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:79:36: undefined: TwilioFromPhoneNumber
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:32:53 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:68:95: undefined: TwilioAccount
+./twilio.go:77:36: undefined: TwilioFromPhoneNumber
+./twilio.go:81:29: undefined: TwilioAccount
+./twilio.go:81:55: undefined: TwilioAuthToken
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:33:24 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:68:95: undefined: TwilioAccount
+./twilio.go:81:29: undefined: TwilioAccount
+./twilio.go:81:55: undefined: TwilioAuthToken
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:35:33 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:68:95: undefined: TwilioAccount
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:37:34 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:68:26: undefined: message
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:43:11 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:62:7: syntax error: unexpected map at end of statement
+./twilio.go:63:28: syntax error: unexpected comma after top level declaration
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:43:34 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:80:10: res.Body.Read evaluated but not used
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:43:43 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:80:10: res.Body.Read evaluated but not used
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
+2018-03-03 22:44:12 WEBSTORE : there are some errors in 
+ # github.com/sir-wiggles/arc/pkg/webstore/twilio
+./twilio.go:80:10: res.Body.Read evaluated but not used
+FAIL	github.com/sir-wiggles/arc/pkg/webstore/twilio [build failed]
