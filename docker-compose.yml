@@ -3,9 +3,9 @@ services:
   db:
     image: postgres:9.6-alpine
     environment:
-      - POSTGRES_USER=zume
+      - POSTGRES_USER=foobar
       - POSTGRES_PASSWORD=cheese
-      - POSTGRES_DB=zume
+      - POSTGRES_DB=foobar
     ports:
       - "127.0.0.1:5432:5432"
     volumes:

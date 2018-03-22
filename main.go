@@ -18,11 +18,11 @@ var (
 	port string
 	db   *sql.DB
 
-	pgUser = "zume"
+	pgUser = "foobar"
 	pgPass = "cheese"
 	pgHost = "localhost"
 	pgPort = "5432"
-	pgName = "zume"
+	pgName = "foobar"
 )
 
 func init() {

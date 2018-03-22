@@ -16,7 +16,6 @@ Before starting any application it's important to plan out the organization of t
 
 I suggest a better approach. By following a few simple rules we can decouple our code, make it easier to test, and bring a consistent structure to our project. Before we dive into it, though, here are a few other approaches and their weaknesses
 
-![bubbles](/bubbles.png)
 
 ### Approach 1: Monolithic package
 Throwing all your code in a single package can actually work very well for small applications. It removes any chance of circular dependencies because, within your application, there are no dependencies.
@@ -34,6 +33,7 @@ This approach is similar to the above style layout except that we are grouping o
 We find the same issues in this approach. Again, we end up with terrible names like `users.User`. We also have the same issue of circular dependencies if our `accounts.Controller` needs to interact with our `users.Controller` and vis-a-versa.
 
 ## A better approach
+![bubbles](/bubbles.png)
 The package strategy that I've used for previous projects involves 4 simple tenets:
 
 1. Root package is for domain types
