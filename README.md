@@ -16,6 +16,8 @@ Before starting any application it's important to plan out the organization of t
 
 I suggest a better approach. By following a few simple rules we can decouple our code, make it easier to test, and bring a consistent structure to our project. Before we dive into it, though, here are a few other approaches and their weaknesses
 
+![bubbles](/bubbles.png)
+
 ### Approach 1: Monolithic package
 Throwing all your code in a single package can actually work very well for small applications. It removes any chance of circular dependencies because, within your application, there are no dependencies.
 
