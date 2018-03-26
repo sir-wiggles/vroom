@@ -323,5 +323,8 @@ func main() {
 8. very small memory footprint
 9. excellent standard library, can build a fully functional production ready web server with just the standard library with ease.
 10. despite being relatively young, the language is very mature and consistent.
-11. Opinionated styling with `gofmt`
+11. Opinionated styling with `gofmt`.  One less thing to worry about.
 12. Frameworks are unnecessary with go. They exist but are highly discouraged in the community as they mostly get in the way.
+13. testing is built into go tooling with `go test` and you're off 
+14. benchmarking is also a standard with go `go bench`
+15. with tests comes (race detection)[https://blog.golang.org/race-detector]
